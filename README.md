@@ -1,4 +1,4 @@
-# Logistic-Regression-from-Scratch
+# Logistic-Regression-from-Scratch and the selection of the best Features
 
 
 In this project, I have implemented logistic regression from scratch in Python. Additionally, I have performed exploratory data analysis (EDA) on the Cancer dataset, conducted forward and backward selection of features, and evaluated these each time with evaluation metrices to determine the best combination of the available features in the dataset .
